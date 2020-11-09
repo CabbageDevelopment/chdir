@@ -2,6 +2,12 @@
 
 `chdir` is a tiny Python library for setting the current working directory to the location of a Python script.
 
+## How to install
+
+```bash
+pip install chdir
+```
+
 ## Why? 
 
 When writing Python scripts, you might be tired of doing this:
